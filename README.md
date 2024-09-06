@@ -13,3 +13,4 @@ Este projeto web permite pesquisar por atletas brasileiros, utilizando uma base 
 ### Como Utilizar
 1. **Clonar o repositório:
 2. **Abrir na sua IDE e rodar o HTML
+3. **Você pode acessar esse link para testar também imersao-dev-da-alura-gemini.vercel.app
